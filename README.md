@@ -1,2 +1,2 @@
-# user-manager
+# User manager
 App users manager
