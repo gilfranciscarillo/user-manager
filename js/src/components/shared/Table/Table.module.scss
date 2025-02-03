@@ -1,0 +1,15 @@
+@import '../../../assets/design_templates.scss';
+
+.tableComponentContainer {
+    border: 1px solid;
+    border-spacing: 0;
+
+    > tr, th, td {
+        border: 1px solid;  
+        padding: 16px;  
+    }
+}
+
+.actionButton {
+    @include button-styles;
+}

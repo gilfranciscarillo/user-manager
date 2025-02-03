@@ -1,0 +1,12 @@
+@import './assets/design_templates.scss';
+
+.AppContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    align-items: baseline;
+}
+
+.actionButton {
+    @include button-styles;      
+} 
