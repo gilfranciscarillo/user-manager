@@ -21,7 +21,7 @@ database.default.username<br />
 database.default.password<br />
 database.default.port<br />
 
-Once configured, open a terminal of your choice. Before doing this, please make sure that composer, npm and nodejs is already installed in your computer. Then in your terminal, do the following steps
+Once configured, open a terminal of your choice. Before doing this, please make sure that composer, npm and nodejs are already installed in your computer. Then in your terminal, do the following steps
 
 # Composer and npm
 1. cd to usermanager then run "composer install"
